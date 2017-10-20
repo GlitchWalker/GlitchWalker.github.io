@@ -28,7 +28,7 @@ li {
     float: left;
 }
 
-li a {
+#navbar ul li a {
     display: block;
     color: white;
     text-align: center;
@@ -36,13 +36,13 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+#navbar ul li a:hover {
     background-color: #111111;
     color: white;
     text-decoration: none;
 }
 
-.lastfm a:hover {
+#navbar ul li #lastfm-link a:hover {
     background-color: #d51007;
 }
 
