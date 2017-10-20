@@ -42,7 +42,7 @@ li a:hover {
     text-decoration: none;
 }
 
-li .lastfm a:hover {
+.lastfm a:hover {
     background-color: #d51007;
 }
 
