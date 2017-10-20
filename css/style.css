@@ -42,6 +42,10 @@ li a:hover {
     text-decoration: none;
 }
 
+.lastfm a:hover {
+    background-color: #d51007;
+}
+
 .divider {
   background-color: #ebe8e8;
   margin: 0px;
