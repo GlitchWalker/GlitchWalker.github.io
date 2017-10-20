@@ -15,7 +15,7 @@ p {
 
 } 
 
-#navbar {
+#navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -23,11 +23,11 @@ p {
     background-color: #333;
 }
 
-#navbar li {
+#navbar ul li {
     float:left
 }
 
-#navbar li a {
+#navbar ul li a {
     display: block;
     background-color:#333;
     color: white;
@@ -40,13 +40,13 @@ p {
     float: left;
 }
 
-#navbar li a:hover {
+#navbar ul li a:hover {
     background-color: #111111;
     color: white;
     text-decoration: none;
 }
 
-#navbar li#lastfm-link a:hover {
+#navbar ul li#lastfm-link a:hover {
     background-color: #d51007;
     float: right;
 }
