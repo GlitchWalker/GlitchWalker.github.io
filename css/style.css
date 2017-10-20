@@ -40,5 +40,6 @@ li a:hover {
 .divider {
   background-color: #ebe8e8;
   border-width: 10px;
-  padding: 0px;
+  margin: 0px;
+  padding: 10px;
 }
