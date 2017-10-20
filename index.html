@@ -6,12 +6,6 @@
         <script src="/scripts/plugins/jquery.lastfmnowplaying.js"></script>
         <link rel="stylesheet" href="css/style.css">
         <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.2/css/bootstrap.min.css'>
-        <script>
-            $('#lastFmWidget').lastfmNowPlaying({
-                    apiKey: '1f5c0ac3dced5f58698d860235473e91',
-                    members: ['Dark_Ronius']
-                });
-        </script>
     </head>
     <body>
         <div id="navbar">
@@ -31,6 +25,12 @@
         <script type="text/template" id="lastFmWidget">
         	<div>{ track.artist }</div>
         	<div>{ track.title }</div>
+        </script>
+        <script>
+            $('#lastFmWidget').lastfmNowPlaying({
+            apiKey: '1f5c0ac3dced5f58698d860235473e91',
+            members: ['Dark_Ronius']
+            });
         </script>
     </body>
 </html>
