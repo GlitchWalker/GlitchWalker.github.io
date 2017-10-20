@@ -35,10 +35,23 @@ h3 {
     text-decoration: none;
 }
 
+#navbar ul li#twitter-link {
+    float: right;
+}
+#navbar ul li#twitter-link a:hover {
+    background-color: #1da1f2;
+}
+
 #navbar ul li#lastfm-link {
     float: right;
 }
+#navbar ul li#lastfm-link a:hover {
+    background-color: #d51007;
+}
 
+#navbar ul li#github-link {
+    float: right;
+}
 #navbar ul li#github-link a:hover {
     background-color: #6cc644;
 }
