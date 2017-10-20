@@ -42,7 +42,7 @@ li {
     text-decoration: none;
 }
 
-#navbar ul li #lastfm-link a:hover {
+#navbar ul #lastfm-link a:hover {
     background-color: #d51007;
     float: right;
 }
