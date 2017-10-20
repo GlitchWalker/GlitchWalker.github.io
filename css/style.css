@@ -42,9 +42,12 @@ p {
     text-decoration: none;
 }
 
+#navbar ul li#lastfm-link {
+    float: right;
+}
+
 #navbar ul li#lastfm-link a:hover {
     background-color: #d51007;
-    float: right;
 }
 
 .divider {
