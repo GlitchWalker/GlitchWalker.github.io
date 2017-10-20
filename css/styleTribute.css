@@ -1,0 +1,37 @@
+body {
+  margin: 40px 40px 40px 40px;
+}
+
+h1 {
+<<<<<<< HEAD:css/style.css
+
+=======
+  font-family: 'Rokkitt', serif;
+  color: black;
+>>>>>>> 76a9855f5eff83875a9ec390ea3aedd92ce98afa:css/styleTribute.css
+}
+
+h1 {
+  font-family: 'Rokkitt', serif;
+  color: black;
+}
+
+
+p {
+<<<<<<< HEAD:css/style.css
+
+} 
+
+.divider {
+  background-color: #666666;
+=======
+  font-family: 'Noto Serif', serif;
+  color: black
+} 
+
+.divider {
+  background-color: #888888;
+>>>>>>> 76a9855f5eff83875a9ec390ea3aedd92ce98afa:css/styleTribute.css
+  border-size: 10px;
+  border-radius: 10px;
+}
