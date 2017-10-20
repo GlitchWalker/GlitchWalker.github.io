@@ -10,6 +10,12 @@ p {
 
 } 
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+)
+
 .divider {
   background-color: #ebe8e8;
   border-width: 10px;
