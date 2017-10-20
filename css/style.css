@@ -49,6 +49,13 @@ h3 {
     background-color: #d51007;
 }
 
+#navbar ul li#freecodecamp-link {
+    float: right;
+}
+#navbar ul li#freecodecamp-link a:hover {
+    background-color: #006400;
+}
+
 #navbar ul li#github-link {
     float: right;
 }
