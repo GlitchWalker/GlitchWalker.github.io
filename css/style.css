@@ -39,8 +39,8 @@ h3 {
     float: right;
 }
 
-#navbar ul li#lastfm-link a:hover {
-    background-color: #d51007;
+#navbar ul li#github-link a:hover {
+    background-color: #6cc644;
 }
 
 .divider {
