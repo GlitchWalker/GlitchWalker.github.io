@@ -22,15 +22,16 @@
             <h2>Sensibly Programmed Portfolio Telegraph Engine</h2>
             <h3>(or, my portfolio)</h3>
         </div>
+        <script type="text/javascript">
+            $('#lastFmWidget').lastfmNowPlaying({
+                apiKey: '1f5c0ac3dced5f58698d860235473e91',
+                members: ['Dark_Ronius']
+            });
+        </script>
         <script type="text/template" id="lastFmWidget">
         	<div>{ track.artist }</div>
         	<div>{ track.title }</div>
         </script>
-        <script>
-            $('#lastFmWidget').lastfmNowPlaying({
-            apiKey: '1f5c0ac3dced5f58698d860235473e91',
-            members: ['Dark_Ronius']
-            });
-        </script>
+
     </body>
 </html>
