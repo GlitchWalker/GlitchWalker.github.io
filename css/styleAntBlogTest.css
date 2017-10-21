@@ -1,0 +1,85 @@
+#hometitle1 {
+    margin-top: 80px;
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+
+#hometitle3 {
+    padding-top: 0px
+}
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    background-color: #333;
+    width: 100%;
+}
+
+#navbar ul li {
+    float:left
+}
+
+#navbar ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+
+#navbar ul li a:hover {
+    background-color: #111111;
+    color: white;
+    text-decoration: none;
+}
+
+#navbar ul li#twitter-link {
+    float: right;
+}
+#navbar ul li#twitter-link a:hover {
+    background-color: #1da1f2;
+}
+
+#navbar ul li#lastfm-link {
+    float: right;
+}
+#navbar ul li#lastfm-link a:hover {
+    background-color: #d51007;
+}
+
+#navbar ul li#freecodecamp-link {
+    float: right;
+}
+#navbar ul li#freecodecamp-link a:hover {
+    background-color: #006400;
+}
+
+#navbar ul li#github-link {
+    float: right;
+}
+#navbar ul li#github-link a:hover {
+    background-color: #6cc644;
+}
+
+.divhome {
+  background-color: #ebe8e8;
+  margin: 0px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.divabout {
+    background-color: #555;
+    color: #FFF;
+    padding-top: 120px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.divabout a {
+    color: white;
+}
