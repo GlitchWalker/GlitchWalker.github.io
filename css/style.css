@@ -68,3 +68,9 @@
   margin: 0px;
   padding: 10px;
 }
+
+.divabout {
+    background-color: #666;
+    padding-left: 30px;
+    padding-right: 30px;
+}
