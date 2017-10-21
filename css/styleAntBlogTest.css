@@ -25,3 +25,11 @@ body {
 #nav a:hover {
   color:white;
 }
+
+.content {
+  background-color:black
+}
+
+.footer {
+  background-color:black;
+}
