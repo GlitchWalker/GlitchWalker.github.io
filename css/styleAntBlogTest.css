@@ -1,4 +1,5 @@
 .menu .inner ul {
+  background: blue;
   display: inline-block;
   list-style-type: none;
 }
