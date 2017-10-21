@@ -1,15 +1,11 @@
-.menu {
+#nav {
   text-align:center;
 }
 
-.menu .inner ul {
-  background: blue;
-  display: inline-block;
-  list-style-type: none;
+#nav li {
+  display:inline;
 }
-
-.menu .inner ul li {
-  background:red; 
-  padding:10px; 
-  width:50%;  
+#nav a {
+  text-decoration:none; 
+  padding:0 30px; /* variable width */
 }
