@@ -1,10 +1,10 @@
 .menu .inner ul {
-  list-style:none
+  display: inline-block;
+  list-style-type: none;
 }
 
 .menu .inner ul li {
   background:red; 
-  display:inline-block; 
   padding:10px; 
   width:50%;  
 }
