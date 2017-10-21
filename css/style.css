@@ -74,8 +74,12 @@
 .divabout {
     background-color: #555;
     color: #FFF;
-    padding-top: 30px;
+    padding-top: 60px;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
+}
+
+.divabout a {
+    color: white;
 }
