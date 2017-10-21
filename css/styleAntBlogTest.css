@@ -15,6 +15,7 @@ body {
   font-family: 'Poiret One', cursive;
   text-transform: uppercase;
   font-size:30px;
+  font-weight:bold;
 }
 
 #nav li {
@@ -25,6 +26,7 @@ body {
   text-decoration:none;
   text-transform: uppercase; 
   font-size:30px;
+  font-weight:bold;
   color:rgb(209, 0, 209);
   padding:100px 50px 50px 50px; /* variable width */
 }
