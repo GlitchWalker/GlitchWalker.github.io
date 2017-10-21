@@ -15,11 +15,10 @@
     list-style-type: none;
     overflow: hidden;
     background-color: #0000005e;
-    text-align: center;
 }
 
 .nav-pills li {
-    float: center;
+    float: left;
 }
 
 .nav-pills li a {
