@@ -1,37 +1,47 @@
 div {
-    min-height:75px;
-    line-height: 75px;
-    text-align: center;
-    color: purple;
+  min-height:75px;
+  line-height:75px;
+  text-align:center;
+  color:white;
+  font-weight:bold;
+  
 }
 
 .inner {
-    width: 50%;
-    max-width: 960px;
-    margin: 0 auto;
+  width:50%;
+  max-width:960px;
+  margin:0 auto;
 }
 
-.nav-pills {
-    overflow: hidden;
-    background-color: #0000005e;
+.header {
+  background:red;
 }
 
-.nav-pills li {
-    text-align: center;
+.header .inner {
+  background:orange;
 }
 
-.nav-pills li a {
-    color: rgb(255, 0, 212);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+.menu {
+  background:darkgrey; 
 }
 
-.nav-pills li a:hover {
-    color: white;
+.menu .inner {
+  background:lightgrey; /* remove this for full color bar */
+  color:black;
 }
 
-.nav-pills li a:active {
-    list-style-type: none;
-    text-decoration: none;
+.content {
+  background:green;
+}
+
+.content .inner {
+  background:lightgreen;
+}
+
+.footer {
+  background:blue;
+}
+
+.footer .inner {
+  background:darkblue;
 }
