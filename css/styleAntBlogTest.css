@@ -10,6 +10,7 @@ body {
   position:fixed;
   text-align:center;
   padding-top:20px;
+  padding-bottom:0;
   background-color:rgba(0, 0, 0, 0.74);
   font-family: 'Poiret One', cursive;
   text-transform: uppercase;
@@ -18,7 +19,6 @@ body {
 
 #nav li {
   display:inline;
-  background-color:black;
 }
 #nav a {
   background-color:black;
