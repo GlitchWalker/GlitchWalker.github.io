@@ -26,7 +26,7 @@ body {
   text-transform: uppercase; 
   font-size:60;
   color:rgb(209, 0, 209);
-  padding:50px 50px; /* variable width */
+  padding:100px 50px 50px 50px; /* variable width */
 }
 
 #nav a:hover {
