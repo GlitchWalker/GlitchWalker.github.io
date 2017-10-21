@@ -14,7 +14,8 @@ body {
   display:inline;
 }
 #nav a {
-  text-decoration:none; 
+  text-decoration:none;
+  text-transform: uppercase; 
   font-size:26;
   color:rgb(209, 0, 209);
   padding:0 50px; /* variable width */
