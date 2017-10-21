@@ -5,11 +5,14 @@
     color: purple;
 }
 
-.nav-pills {
-    list-style-type: none;
+.inner {
     width: 50%;
     max-width: 960px;
     margin: 0 auto;
+}
+
+.nav-pills {
+    list-style-type: none;
     overflow: hidden;
     background-color: #0000005e;
     text-align: center;
