@@ -84,3 +84,21 @@
 .divabout a {
     color: white;
 }
+
+.divprojects {
+  background-color: #ebe8e8;
+  margin: 0px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 60px
+}
+
+.divcontact {
+    background-color: #555;
+    color: #FFF;
+    padding-top: 120px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 80px;
+}
